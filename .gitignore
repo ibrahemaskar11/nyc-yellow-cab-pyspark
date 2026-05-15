@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!course_notebook.ipynb
+!project_work_notebook.ipynb
+!Vagrantfile
+!bootstrap.sh
